@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yaakoub Bourekba</h1>
 <h3 align="center">📲 Mobile App Developer | Flutter</h3>
+<h3 align="center">🎨 UI Designer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yaakoub-bourekba&label=Profile%20views&color=0e75b6&style=flat" alt="yaakoub-bourekba" /> </p>
 
